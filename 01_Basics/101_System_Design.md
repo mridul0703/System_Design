@@ -63,22 +63,25 @@ Key building blocks of modern system architecture, each solving a specific probl
 ---
 
 ## 🔁 System Design Life Cycle (SDLC)
+![image](https://github.com/user-attachments/assets/75e5e0cc-cc26-443d-bed7-8551e3c5801f)
 
 A structured approach to designing systems that aligns with development goals.
 
 > **Phases include:**
-1. **Requirement Analysis** – Understand what’s needed.
-2. **System Design** – Blueprint of architecture and components.
-3. **Implementation** – Coding begins.
-4. **Testing** – Ensure system works as intended.
-5. **Deployment** – Ship to production.
-6. **Maintenance** – Updates, monitoring, and scaling.
+1. **Planning** - Making planning ofr the req system.
+2. **Requirement Analysis** – Understand what’s needed.
+3. **System Design** – Blueprint of architecture and components.
+4. **Implementation** – Coding begins.
+5. **Testing** – Ensure system works as intended.
+6. **Deployment** – Ship to production.
+7. **Maintenance** – Updates, monitoring, and scaling.
 
 🧠 Good design at this stage prevents major issues later.
 
 ---
 
 ## 🏗️ System Architecture
+![image](https://github.com/user-attachments/assets/2ec4812d-3d1a-45c0-8fcc-5a175965bde6)
 
 Defines how all system components interact and function together.
 
